@@ -2,18 +2,8 @@
   "version": 1,
   "schema": "universal-approval-v1",
   "app_id": "fs-browser",
-  "updated_at": "2026-11-18T07:40:23.318Z",
+  "updated_at": "2026-11-18T07:40:33.530Z",
   "licenses": [
-    {
-      "id": "f0b81412-d6ac-4467-9b8b-69f5aeda1607",
-      "key_hash": "aff440951d5b967efa6cd7801297d609e0d3b05552786748a7159f3582011dff",
-      "fingerprint_hash": "07bffe43790531c684ae0be750a081fa35c23c42afa615be2020d0d241b73dbb",
-      "label": "1",
-      "expiry": "2026-12-15",
-      "status": "revoked",
-      "max_devices": 1,
-      "created_at": "2026-11-15T17:37:43.169Z"
-    },
     {
       "id": "91232d75-80a2-4cfb-979c-73d2bb1f143f",
       "key_hash": "5b7b5c25a7c4fd056203fd3f313f26f50beaf53e69e5f42575df6f8c2fb120bb",
