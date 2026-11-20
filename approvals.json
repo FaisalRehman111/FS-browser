@@ -2,7 +2,7 @@
   "version": 1,
   "schema": "universal-approval-v1",
   "app_id": "fs-browser",
-  "updated_at": "2026-11-20T13:03:21.071Z",
+  "updated_at": "2026-11-20T15:47:00.348Z",
   "licenses": [
     {
       "id": "bd996283-e333-4a4c-8115-2addee14567a",
@@ -24,7 +24,24 @@
       "status": "active",
       "max_devices": 1,
       "created_at": "2026-11-20T13:03:21.066Z"
+    },
+    {
+      "id": "5e7022e2-5ce8-4f11-a09f-8dcdef149e4e",
+      "serial": 3,
+      "key_encrypted": {
+        "format": "fs-admin-key-v1",
+        "iv": "855118d065b6d1904d0169e0",
+        "tag": "12a53725a588ec5dcad32eb607241f4b",
+        "body": "t+O26ow3zOuWTrX7fKKm+VjmuguNpSS3xgG9tZTKPY2RNK3TaA6gptAUGyQ="
+      },
+      "key_hash": "e02d0752feaf3b9779a9a5726ea61c4be6d96542f986de2a478824c302425a5b",
+      "fingerprint_hash": "07bffe43790531c684ae0be750a081fa35c23c42afa615be2020d0d241b73dbb",
+      "label": "#3 - 3lp",
+      "expiry": "",
+      "status": "active",
+      "max_devices": 1,
+      "created_at": "2026-11-20T15:47:00.348Z"
     }
   ],
-  "next_license_serial": 3
+  "next_license_serial": 4
 }
